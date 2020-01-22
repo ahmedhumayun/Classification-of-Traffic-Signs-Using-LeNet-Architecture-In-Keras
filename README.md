@@ -6,17 +6,17 @@
 
 - In this project, a Deep Network known as LeNet will be used for traffic sign images classification.
 
-![].(1.png)
+![].(https://github.com/ahmedhumayun/Classification-of-Traffic-Signs-Using-LeNet-Architecture-In-Keras/blob/master/1.png)
 
 
-![].(2.png)
+![].(https://github.com/ahmedhumayun/Classification-of-Traffic-Signs-Using-LeNet-Architecture-In-Keras/blob/master/2.png)
 
 The network used is called LeNet that was presented by Yann LeCun
 Reference and photo credit: http://yann.lecun.com/exdb/publis/pdf/lecun-01a.pdf
 C: Convolution layer, S: subsampling layer, F: Fully Connected layer
 
 
-![].(3.png)
+![].(https://github.com/ahmedhumayun/Classification-of-Traffic-Signs-Using-LeNet-Architecture-In-Keras/blob/master/3.png)
 
 Photo Credit: https://commons.wikimedia.org/wiki/File:Artificial_neural_network.svg
 
